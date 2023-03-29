@@ -12,6 +12,9 @@
 
 - 📫 How to reach me **kennethcxv@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://github.com/kennethcxv?tab=repositories](https://github.com/kennethcxv?tab=repositories)
+
+- 📄 My Resume: [https://drive.google.com/file/d/15dvi5q8-2LeZnwUz9_5ncsbDVs4lGa1S/view?usp=share_link](https://drive.google.com/file/d/15dvi5q8-2LeZnwUz9_5ncsbDVs4lGa1S/view?usp=share_link)
 
 
 <h3 align="left">Connect with me:</h3>
