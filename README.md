@@ -56,8 +56,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-kennethcxv.vercel.app/?user=kennethcxv&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-kennethcxv.vercel.app/api?username=kennethcxv&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=kennethcxv&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kennethcxv&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-kennethcxv.vercel.app/api/top-langs/?username=kennethcxv&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
@@ -73,14 +73,3 @@
 </div>
 
 <br />
-## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcxv)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## 📫 How to Reach Me
-- **Email**: [kennethcxv@gmail.com](mailto:kennethcxv@gmail.com)
-- **LinkedIn**: [linkedin.com/in/kennethcxv](https://linkedin.com/in/kennethcxv)
-- **GitHub**: [github.com/kennethcxv](https://github.com/kennethcxv)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcxv)](https://github.com/anuraghazra/github-readme-stats)
