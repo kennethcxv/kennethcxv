@@ -1,6 +1,6 @@
 
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kennethcxv.visitor-badge&left_color=red&right_color=green&left_text=Visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kennethcxv.visitor-badge&left_color=red&right_color=green&left_text=visitors">
 </p>
 
 
