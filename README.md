@@ -9,8 +9,9 @@
 </h1>
 
 
+<h1 align="center">A Passionate Software Engineer</h1>
+<hr />
 
-<h1 align="center" style="margin-bottom: 0; line-height: 1.1;">A Passionate Software Engineer</h1>
 
 
 <br />
