@@ -10,7 +10,7 @@
 
 
 
-<h2 align="center">A passionate software engineer</h2>
+<h1 align="center">A passionate software engineer</h1>
 <br />
 
 ## 👨‍💻About Me
