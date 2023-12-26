@@ -42,13 +42,6 @@
   </a>
 </div>
 
-### Languages and Tools:
-- **Languages**: C, C++, Python, Java, C#, MySQL, Visual Basic, React, Ruby, .NET, Next.js, JavaScript, TypeScript
-- **Tools & Technologies**: AWS, OpenCV, TensorFlow, Flask, Node.js, SQL, Unreal Engine 5, Blender
-
-### Relevant Courses:
-- Data Structures, Computer Architecture, Database Management, Software Engineering, Statistics for Machine Learning
-
 ## 📈 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcxv)](https://github.com/anuraghazra/github-readme-stats)
 
