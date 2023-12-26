@@ -34,9 +34,7 @@ I'm Kenneth Camacho, a U.S. Citizen and a dedicated software engineer currently 
 - Data Structures, Computer Architecture, Database Management, Software Engineering, Statistics for Machine Learning
 
 ## 📈 GitHub Stats
-
-[![Kenneth's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kennethcxv&theme=xcode)](https://github.com/kennethcxv)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcxv)](https://github.com/anuraghazra/github-readme-stats)
 ## 💼 Experience
 
 ### Software Engineer Intern | Sebanda Insurance
