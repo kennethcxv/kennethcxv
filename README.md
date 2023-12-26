@@ -1,5 +1,8 @@
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kennethcxv.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kennethcxv.visitor-badge&left_color=red&right_color=green&left_text=Visitors">
+</p>
+
 
 ### <h1 align="center">Hi 👋, I'm Kenneth Camacho</h1>
 <h3 align="center">A passionate Software Engineer</h3>
