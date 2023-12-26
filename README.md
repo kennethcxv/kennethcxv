@@ -18,7 +18,7 @@
     👯 I'm open to collaborative projects in <strong>AI, Deep Learning, and Full-Stack Development</strong><br /><br />
     📚 I'm certified in <strong>Python Data Structures, C#, Java, JavaScript, HTML & CSS</strong></br /><br />
 </div>
-
+<br />
 <div align="center">
   <a href="mailto:kennethcxv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red target="_blank" />
@@ -37,6 +37,8 @@
   </a>
 </div>
 
+<br />
+<br />
 
 
 <h2 align="center">🛠️Languages-Frameworks-Tools🛠️</h2>
