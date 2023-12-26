@@ -42,6 +42,20 @@
   </a>
 </div>
 
+<br />
+<hr />
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="raw.githubusercontent.com/kennethcxv/kennethcxv/output/github-contribution-grid-snake.svg"/>
+  <br/>  <br/>  <br/>
+</div>
+<hr />
+
+
+
+
 ## 📈 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcxv)](https://github.com/anuraghazra/github-readme-stats)
 
