@@ -15,7 +15,7 @@
 
 <div align="center">
   
-    🎓 <strong>Education</strong>: B.S in Computer Science, Florida State University (GPA: 3.9/4.0)
+    🎓 **Education**: B.S in Computer Science, Florida State University (GPA: 3.9/4.0)
     🌱 <strong>Learning</strong>: Advanced Data Structures, Computer Architecture, and Machine Learning Techniques
     👯 <strong>Collaboration</strong>: Open to collaborative projects in AI, Deep Learning, and Full-Stack Development
     📚 <strong>Certifications</strong>: Python Data Structures, C#, Java, JavaScript, HTML & CSS
