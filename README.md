@@ -11,7 +11,7 @@
 
 
 <h1 align="center">A Passionate Software Engineer</h1>
-<br />
+
 <div align="center">
     🎓 I'm currently studying at <strong>Florida State University: B.S in Computer Science(GPA: 3.9/4.0)</strong><br /><br />
     🌱 I'm currently learning <strong>Advanced Data Structures, Computer Architecture, and Machine Learning Techniques</strong><br /><br />
