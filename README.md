@@ -14,15 +14,11 @@
 <br />
 
 <div align="center">
-  <ul>
-    <li>🎓 <strong>Education</strong>: B.S in Computer Science, Florida State University (GPA: 3.9/4.0)</li>
-    <li>💼 <strong>Current Role</strong>: Software Engineer Intern at Sebanda Insurance</li>
-    <li>🌱 <strong>Learning</strong>: Advanced Data Structures, Computer Architecture, and Machine Learning Techniques</li>
-    <li>👯 <strong>Collaboration</strong>: Open to collaborative projects in AI, Deep Learning, and Full-Stack Development</li>
-    <li>📫 <strong>Contact</strong>: <a href="mailto:kennethcxv@gmail.com">kennethcxv@gmail.com</a></li>
-    <li>🔗 <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/kennethcxv">linkedin.com/in/kennethcxv</a></li>
-    <li>📚 <strong>Certifications</strong>: Python Data Structures, C#, Java, JavaScript, HTML & CSS</li>
-  </ul>
+  
+    🎓 <strong>Education</strong>: B.S in Computer Science, Florida State University (GPA: 3.9/4.0)
+    🌱 <strong>Learning</strong>: Advanced Data Structures, Computer Architecture, and Machine Learning Techniques
+    👯 <strong>Collaboration</strong>: Open to collaborative projects in AI, Deep Learning, and Full-Stack Development
+    📚 <strong>Certifications</strong>: Python Data Structures, C#, Java, JavaScript, HTML & CSS
 </div>
 
 
