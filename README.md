@@ -7,7 +7,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=008000&center=true&vCenter=true&random=false&width=500&lines=Hi+There!%F0%9F%91%8B;I'm+Kenneth+Camacho" alt="Typing SVG" />
     </a>
 </h1>
-
+<br /><br />
 
 <h1 align="center">A Passionate Software Engineer</h1>
 
