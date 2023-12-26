@@ -14,7 +14,7 @@
 <br />
 
 ## 👨‍💻About Me
-
+## About Me
 I'm Kenneth Camacho, a U.S. Citizen and a dedicated software engineer currently pursuing my B.S in Computer Science at Florida State University, expected to graduate in Jun 2026. With a strong foundation in various programming languages and a passion for developing innovative solutions, I am actively involved in multiple projects and community initiatives.
 
 - 🎓 **Education**: B.S in Computer Science, Florida State University (GPA: 3.9/4.0)
