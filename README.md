@@ -29,8 +29,8 @@
   <a href="https://github.com/kennethcxv" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/kennethcxv" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  <a href="https://discord.gg/tX88PUsb" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
     <a href="https://github.com/kennethcxv" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
