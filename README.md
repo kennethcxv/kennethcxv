@@ -13,10 +13,10 @@
 <h1 align="center">A passionate software engineer</h1>
 <br />
 <div align="center">
-    🎓 **Education**: B.S in Computer Science, Florida State University (GPA: 3.9/4.0)
+    🎓 <strong>Education</strong>: B.S in Computer Science, Florida State University (GPA: 3.9/4.0)
     🌱 <strong>Learning</strong>: Advanced Data Structures, Computer Architecture, and Machine Learning Techniques
-    👯 **Collaboration**: Open to collaborative projects in AI, Deep Learning, and Full-Stack Development
-    📚 **Certifications**: Python Data Structures, C#, Java, JavaScript, HTML & CSS
+    👯 <strong>Collaboration</strong>: Open to collaborative projects in AI, Deep Learning, and Full-Stack Development
+    📚 <strong>Certifications</strong>: Python Data Structures, C#, Java, JavaScript, HTML & CSS
 </div>
 
 
