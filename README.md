@@ -10,7 +10,8 @@
 
 
 
-<h1 align="center" style="margin-bottom: 0;">A Passionate Software Engineer</h1>
+<h1 align="center" style="margin-bottom: 0; line-height: 1.1;">A Passionate Software Engineer</h1>
+
 
 <br />
 <div align="center">
