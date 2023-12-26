@@ -13,9 +13,7 @@
 <h1 align="center">A passionate software engineer</h1>
 <br />
 
-## 👨‍💻About Me
-I'm Kenneth Camacho, a U.S. Citizen and a dedicated software engineer currently pursuing my B.S in Computer Science at Florida State University, expected to graduate in Jun 2026. With a strong foundation in various programming languages and a passion for developing innovative solutions, I am actively involved in multiple projects and community initiatives.
-
+<div align="center">
 - 🎓 **Education**: B.S in Computer Science, Florida State University (GPA: 3.9/4.0)
 - 💼 **Current Role**: Software Engineer Intern at Sebanda Insurance
 - 🌱 **Learning**: Advanced Data Structures, Computer Architecture, and Machine Learning Techniques
@@ -23,6 +21,7 @@ I'm Kenneth Camacho, a U.S. Citizen and a dedicated software engineer currently 
 - 📫 **Contact**: [kennethcxv@gmail.com](mailto:kennethcxv@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/kennethcxv](https://linkedin.com/in/kennethcxv)
 - 📚 **Certifications**: Python Data Structures, C#, Java, JavaScript, HTML & CSS
+</div>
 
 ## 🛠️ Skills
 
