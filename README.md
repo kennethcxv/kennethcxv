@@ -10,7 +10,7 @@
 
 
 <h1 align="center">A Passionate Software Engineer</h1>
-<hr />
+
 
 
 
@@ -42,8 +42,6 @@
 
 <br />
 
-<hr />
-
 <h2 align="center">🛠️Languages-Frameworks-Tools🛠️</h2>
 <br />
 <div align="center">
@@ -54,7 +52,6 @@
 </div>
 
 <br />
-<hr />
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -65,7 +62,7 @@
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<hr />
+
 <br>
 <div align=center>
 
@@ -79,5 +76,5 @@
 
 <br/><br/>
 <br/>
-<hr/>
+
 
