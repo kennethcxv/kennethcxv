@@ -13,8 +13,8 @@
 <h1 align="center">A passionate software engineer</h1>
 <br />
 <div align="center">
-    🎓 Im currently learning at <strong>Florida State University: B.S in Computer Science(GPA: 3.9/4.0)</strong><br /><br />
-    🌱 <strong>Learning</strong>: Advanced Data Structures, Computer Architecture, and Machine Learning Techniques<br /><br />
+    🎓 I'm currently studying at <strong>Florida State University: B.S in Computer Science(GPA: 3.9/4.0)</strong><br /><br />
+    🌱 I'm currently learning <strong>Advanced Data Structures, Computer Architecture, and Machine Learning Techniques</strong><br /><br />
     👯 <strong>Collaboration</strong>: Open to collaborative projects in AI, Deep Learning, and Full-Stack Development<br /><br />
     📚 <strong>Certifications</strong>: Python Data Structures, C#, Java, JavaScript, HTML & CSS</br /><br />
 </div>
