@@ -30,7 +30,17 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-## 🛠️ Skills
+
+
+
+<h2 align="center">🛠️Languages-Frameworks-Tools🛠️</h2>
+<br />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,firebase,mongodb,c,java"/><br />
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git"/>
+  </a>
+</div>
 
 ### Languages and Tools:
 - **Languages**: C, C++, Python, Java, C#, MySQL, Visual Basic, React, Ruby, .NET, Next.js, JavaScript, TypeScript
