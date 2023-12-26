@@ -10,7 +10,7 @@
 
 
 
-<h1 align="center">A passionate software engineer</h1>
+<h1 align="center">A Passionate Software Engineer</h1>
 <br />
 <div align="center">
     🎓 I'm currently studying at <strong>Florida State University: B.S in Computer Science(GPA: 3.9/4.0)</strong><br /><br />
@@ -19,7 +19,12 @@
     📚 I'm certified in <strong>Python Data Structures, C#, Java, JavaScript, HTML & CSS</strong></br /><br />
 </div>
 
+<div align="center">
+  <a href="mailto:kennethcxv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank" />
+  </a>
 
+</div>
 ## 🛠️ Skills
 
 ### Languages and Tools:
