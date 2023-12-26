@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kennethcxv.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors" />
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kennethcxv.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
 ### <h1 align="center">Hi 👋, I'm Kenneth Camacho</h1>
