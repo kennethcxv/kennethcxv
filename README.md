@@ -35,42 +35,7 @@ I'm Kenneth Camacho, a U.S. Citizen and a dedicated software engineer currently 
 
 ## 📈 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcxv)](https://github.com/anuraghazra/github-readme-stats)
-## 💼 Experience
 
-### Software Engineer Intern | Sebanda Insurance
-- Developed AI accounting software using Python, enhancing efficiency and accuracy.
-- Implemented OCR and NLP for faster claims processing.
-
-### Software Engineer Team Lead | Founders Deep Learning Startup
-- Led a team in creating a system for predicting disease outbreaks using AI techniques.
-
-### Software Engineer | Freelancer
-- Improved e-commerce backend systems and executed large-scale data transitions to AWS.
-
-## 🚀 Projects
-
-### Culture Coder Team Lead
-- Developed a full-stack social media platform for programmers.
-
-### Hand Companion AI
-- Created an AI-driven platform for interpreting ASL with high accuracy.
-
-### Audio Scribe AI
-- Engineered an AI-powered transcription tool using OpenAI's GPT-3.5.
-
-### Uni-Face AI
-- Developed a facial recognition app with high accuracy, securing 2nd place in a hackathon.
-
-## 🌟 Leadership
-
-### Code Culture | Founder & Owner
-- Founded and manage the largest programming club at FSU with over 3000 members.
-
-### Pulse Tactical Warfare | Founder & Owner
-- Leading the development of a multifaceted FPS game using Unreal Engine 5 and C++.
-
-## ✍️ Published Articles
-- Authored tech articles, significantly boosting website traffic and subscriber count.
 
 ## 📫 How to Reach Me
 - **Email**: [kennethcxv@gmail.com](mailto:kennethcxv@gmail.com)
